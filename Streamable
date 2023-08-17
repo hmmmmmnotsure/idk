@@ -1,6 +1,0 @@
-DaHoodSettings.Prediction = 0.166
-Aiming.TargetPart = {"HumanoidRootPart", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
-Aiming.FOV = 50
-Aiming.FOVSides = 25
-Aiming.HitChance = 194
-Aiming.ShowFOV = true
